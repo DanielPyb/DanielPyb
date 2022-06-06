@@ -3,24 +3,24 @@
 My name is Daniel Sollid and I am a CG generalist and a Front-end student
 
 :dragon: I want to create cool nerdy stuff
-### Some projects I have in the works
+### :sparkles: Some projects I have in the works :sparkles:
 
 - :musical_score: Landing page for music production
 - :herb: Druid app
 
-### I'm currently learning
+### :sparkles: I'm currently learning :sparkles: 
 - React(https://reactjs.org/)
 - Three.js(https://threejs.org/)
 - PlayCanvas(https://playcanvas.com/)
 
-What I know (not enough)
+### :sparkles: What I know (not enough) :sparkles:
 - HTML 
 - CSS 
 - JS 
 - Blender 
 - Adobe
 
-Hope you found this interesting
+Hope you found this interesting :v:
 
 <!--
 **DanielPyb/DanielPyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
