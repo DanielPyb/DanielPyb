@@ -3,7 +3,7 @@
 My name is Daniel Sollid and I am a CG generalist and a Front-end student
 
 :dragon: I want to create cool nerdy stuff
-###Some projects I have in the works
+### Some projects I have in the works
 
 - :musical_score: Landing page for music production
 - :herb: Druid app
