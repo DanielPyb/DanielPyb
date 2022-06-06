@@ -1,4 +1,6 @@
-### Hi there 👋
+![image](https://github.com/DanielPyb/DanielPyb/blob/main/Git.PNG)
+## Hello and welcome
+My name is Daniel and I am CG generalit and a Front-end student
 
 <!--
 **DanielPyb/DanielPyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
