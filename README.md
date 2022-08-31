@@ -7,7 +7,7 @@ My name is Daniel Sollid and I am a CG generalist and a Front-end student
 
 - :musical_score: Landing page for music production
 - :herb: Druid app
-- :walk: Walkies
+- :walking: Walkies
 
 ### :sparkles: I'm currently learning :sparkles: 
 - React(https://reactjs.org/)
