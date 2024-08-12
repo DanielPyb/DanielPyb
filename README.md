@@ -1,27 +1,28 @@
 ![image](https://github.com/DanielPyb/DanielPyb/blob/main/Git.PNG)
 # Hello and welcome
-My name is Daniel Sollid and I am a CG generalist and a Front-end student
+My name is Daniel Sollid and I am a digital designer and fullstack developer
 
-:dragon: I want to create cool nerdy stuff
-### :sparkles: Some projects I have in the works :sparkles:
+🐉 I want to create cool nerdy stuff for people that also want to be more active 🚶
+### ✨ Some projects I have in the works ✨
 
-- :musical_score: Landing page for music production
-- :herb: Druid app
-- :walking: Walkies
+- 🌲HikeFinder
+- 🏋️Character lifter
+- 🚶Walkies
+- 💠Fun Facts
 
 ### :sparkles: I'm currently learning :sparkles: 
-- React(https://reactjs.org/)
-- Three.js(https://threejs.org/)
-- PlayCanvas(https://playcanvas.com/)
+- Rive(https://rive.app/)
 
-### :sparkles: What I know (not enough) :sparkles:
+### :sparkles: Languages and frameworks that I can work with :sparkles:
 - HTML 
-- CSS 
-- JS 
-- Blender 
-- Adobe
+- CSS/SCSS 
+- JavaScript
+- TypeScript
+- React
+- Tailwind.css
+- Bootstrap
+- Python
 
-Hope you found this interesting :v:
 
 <!--
 **DanielPyb/DanielPyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
